@@ -1,0 +1,12 @@
+[submodule "sprint-4-jsx/tasks/jsx-mdemkovych"]
+	path = sprint-4-jsx/tasks/jsx-mdemkovych
+	url = https://github.com/react-04-1/jsx-mdemkovych.git
+[submodule "sprint-4-jsx/tasks/jsx-next-mdemkovych"]
+	path = sprint-4-jsx/tasks/jsx-next-mdemkovych
+	url = https://github.com/react-04-2/jsx-next-mdemkovych.git
+[submodule "sprint-4-jsx/tasks/style-next-mdemkovych"]
+	path = sprint-4-jsx/tasks/style-next-mdemkovych
+	url = https://github.com/react-04-3/style-next-mdemkovych.git
+[submodule "sprint-4-jsx/tasks/css-modules-next-mdemkovych"]
+	path = sprint-4-jsx/tasks/css-modules-next-mdemkovych
+	url = https://github.com/react-04-4/css-modules-next-mdemkovych.git
