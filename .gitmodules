@@ -10,3 +10,15 @@
 [submodule "sprint-4-jsx/tasks/css-modules-next-mdemkovych"]
 	path = sprint-4-jsx/tasks/css-modules-next-mdemkovych
 	url = https://github.com/react-04-4/css-modules-next-mdemkovych.git
+[submodule "sprint-5-react/tasks/react-keys-mdemkovych"]
+	path = sprint-5-react/tasks/react-keys-mdemkovych
+	url = https://github.com/react-05-1/react-keys-mdemkovych.git
+[submodule "sprint-5-react/tasks/react-props-mdemkovych"]
+	path = sprint-5-react/tasks/react-props-mdemkovych
+	url = https://github.com/react-05-2/react-props-mdemkovych.git
+[submodule "sprint-5-react/tasks/react-hooks-state-mdemkovych"]
+	path = sprint-5-react/tasks/react-hooks-state-mdemkovych
+	url = https://github.com/react-05-3/react-hooks-state-mdemkovych.git
+[submodule "sprint-5-react/tasks/react-hooks-effects-mdemkovych"]
+	path = sprint-5-react/tasks/react-hooks-effects-mdemkovych
+	url = https://github.com/react-05-4/react-hooks-effects-mdemkovych.git
