@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Форма з валідацією Zod</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="main.js"></script>
+</head>
+
+<body>
+<h1>Реєстрація (Zod)</h1>
+
+<form id="registerForm" novalidate>
+  <div>
+    <label for="name">Name</label>
+    <input id="name" name="name" placeholder="Введіть ім'я" />
+    <div class="field-error" id="nameError"></div>
+  </div>
+
+  <div>
+    <label for="email">E-mail</label>
+    <input id="email" name="email" type="email" placeholder="example@mail.com" />
+    <div class="field-error" id="emailError"></div>
+  </div>
+
+  <div>
+    <label for="age">Age (optional)</label>
+    <input id="age" name="age" type="number" placeholder="Наприклад, 25" />
+    <div class="field-error" id="ageError"></div>
+  </div>
+
+  <button type="submit">Submit</button>
+</form>
+
+<div id="success"></div>
+
+</body>
+</html>

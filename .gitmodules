@@ -22,3 +22,6 @@
 [submodule "sprint-5-react/tasks/react-hooks-effects-mdemkovych"]
 	path = sprint-5-react/tasks/react-hooks-effects-mdemkovych
 	url = https://github.com/react-05-4/react-hooks-effects-mdemkovych.git
+[submodule "sprint-6-zod/tasks/form-validation-mdemkovych"]
+	path = sprint-6-zod/tasks/form-validation-mdemkovych
+	url = https://github.com/react-07-form-validation/form-validation-mdemkovych.git
