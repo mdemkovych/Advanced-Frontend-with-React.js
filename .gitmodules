@@ -25,3 +25,12 @@
 [submodule "sprint-6-zod/tasks/form-validation-mdemkovych"]
 	path = sprint-6-zod/tasks/form-validation-mdemkovych
 	url = https://github.com/react-07-form-validation/form-validation-mdemkovych.git
+[submodule "sprint-7-storage-webworkers-websocket/tasks/web-workers-with-react-mdemkovych"]
+	path = sprint-7-storage-webworkers-websocket/tasks/web-workers-with-react-mdemkovych
+	url = https://github.com/react-08-1-worker/web-workers-with-react-mdemkovych.git
+[submodule "sprint-7-storage-webworkers-websocket/tasks/web-workers-mdemkovych"]
+	path = sprint-7-storage-webworkers-websocket/tasks/web-workers-mdemkovych
+	url = https://github.com/react-08-1-worker/web-workers-mdemkovych.git
+[submodule "sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych"]
+	path = sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych
+	url = https://github.com/react-08-2-socket/web-sockets-react-mdemkovych.git
