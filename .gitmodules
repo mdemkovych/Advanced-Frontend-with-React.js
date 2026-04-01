@@ -34,3 +34,18 @@
 [submodule "sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych"]
 	path = sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych
 	url = https://github.com/react-08-2-socket/web-sockets-react-mdemkovych.git
+[submodule "sprint-8-tools/tasks/tools-npm-mdemkovych"]
+	path = sprint-8-tools/tasks/tools-npm-mdemkovych
+	url = https://github.com/react-09-npm/tools-npm-mdemkovych.git
+[submodule "sprint-8-tools/tasks/tools-webpack-mdemkovych"]
+	path = sprint-8-tools/tasks/tools-webpack-mdemkovych
+	url = https://github.com/react-09-webpack/tools-webpack-mdemkovych.git
+[submodule "sprint-8-tools/tasks/tools-babel-mdemkovych"]
+	path = sprint-8-tools/tasks/tools-babel-mdemkovych
+	url = https://github.com/react-09-babel/tools-babel-mdemkovych.git
+[submodule "sprint-8-tools/tasks/tools-eslint-mdemkovych"]
+	path = sprint-8-tools/tasks/tools-eslint-mdemkovych
+	url = https://github.com/react-09-eslint/tools-eslint-mdemkovych.git
+[submodule "sprint-8-tools/tasks/task-next-js-mdemkovych"]
+	path = sprint-8-tools/tasks/task-next-js-mdemkovych
+	url = https://github.com/react-09-nextjs/task-next-js-mdemkovych.git
