@@ -49,3 +49,6 @@
 [submodule "sprint-8-tools/tasks/task-next-js-mdemkovych"]
 	path = sprint-8-tools/tasks/task-next-js-mdemkovych
 	url = https://github.com/react-09-nextjs/task-next-js-mdemkovych.git
+[submodule "sprint-9-node-ajax/tasks/node-express-mdemkovych"]
+	path = sprint-9-node-ajax/tasks/node-express-mdemkovych
+	url = https://github.com/react-10-node/node-express-mdemkovych.git
