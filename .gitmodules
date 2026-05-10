@@ -52,3 +52,9 @@
 [submodule "sprint-9-node-ajax/tasks/node-express-mdemkovych"]
 	path = sprint-9-node-ajax/tasks/node-express-mdemkovych
 	url = https://github.com/react-10-node/node-express-mdemkovych.git
+[submodule "sprint-10-routing/tasks/next-js-routes-mdemkovych"]
+	path = sprint-10-routing/tasks/next-js-routes-mdemkovych
+	url = https://github.com/react-11-1-router/next-js-routes-mdemkovych.git
+[submodule "sprint-10-routing/tasks/react-routes-mdemkovych"]
+	path = sprint-10-routing/tasks/react-routes-mdemkovych
+	url = https://github.com/react-11-1-router/react-routes-mdemkovych.git
