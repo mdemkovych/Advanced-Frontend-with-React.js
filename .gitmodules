@@ -1,56 +1,56 @@
 [submodule "sprint-4-jsx/tasks/jsx-mdemkovych"]
-	path = sprint-4-jsx/tasks/jsx-mdemkovych
+	path = sprint-04-jsx/tasks/jsx-mdemkovych
 	url = https://github.com/react-04-1/jsx-mdemkovych.git
 [submodule "sprint-4-jsx/tasks/jsx-next-mdemkovych"]
-	path = sprint-4-jsx/tasks/jsx-next-mdemkovych
+	path = sprint-04-jsx/tasks/jsx-next-mdemkovych
 	url = https://github.com/react-04-2/jsx-next-mdemkovych.git
 [submodule "sprint-4-jsx/tasks/style-next-mdemkovych"]
-	path = sprint-4-jsx/tasks/style-next-mdemkovych
+	path = sprint-04-jsx/tasks/style-next-mdemkovych
 	url = https://github.com/react-04-3/style-next-mdemkovych.git
 [submodule "sprint-4-jsx/tasks/css-modules-next-mdemkovych"]
-	path = sprint-4-jsx/tasks/css-modules-next-mdemkovych
+	path = sprint-04-jsx/tasks/css-modules-next-mdemkovych
 	url = https://github.com/react-04-4/css-modules-next-mdemkovych.git
 [submodule "sprint-5-react/tasks/react-keys-mdemkovych"]
-	path = sprint-5-react/tasks/react-keys-mdemkovych
+	path = sprint-05-react/tasks/react-keys-mdemkovych
 	url = https://github.com/react-05-1/react-keys-mdemkovych.git
 [submodule "sprint-5-react/tasks/react-props-mdemkovych"]
-	path = sprint-5-react/tasks/react-props-mdemkovych
+	path = sprint-05-react/tasks/react-props-mdemkovych
 	url = https://github.com/react-05-2/react-props-mdemkovych.git
 [submodule "sprint-5-react/tasks/react-hooks-state-mdemkovych"]
-	path = sprint-5-react/tasks/react-hooks-state-mdemkovych
+	path = sprint-05-react/tasks/react-hooks-state-mdemkovych
 	url = https://github.com/react-05-3/react-hooks-state-mdemkovych.git
 [submodule "sprint-5-react/tasks/react-hooks-effects-mdemkovych"]
-	path = sprint-5-react/tasks/react-hooks-effects-mdemkovych
+	path = sprint-05-react/tasks/react-hooks-effects-mdemkovych
 	url = https://github.com/react-05-4/react-hooks-effects-mdemkovych.git
 [submodule "sprint-6-zod/tasks/form-validation-mdemkovych"]
-	path = sprint-6-zod/tasks/form-validation-mdemkovych
+	path = sprint-06-zod/tasks/form-validation-mdemkovych
 	url = https://github.com/react-07-form-validation/form-validation-mdemkovych.git
 [submodule "sprint-7-storage-webworkers-websocket/tasks/web-workers-with-react-mdemkovych"]
-	path = sprint-7-storage-webworkers-websocket/tasks/web-workers-with-react-mdemkovych
+	path = sprint-07-storage-webworkers-websocket/tasks/web-workers-with-react-mdemkovych
 	url = https://github.com/react-08-1-worker/web-workers-with-react-mdemkovych.git
 [submodule "sprint-7-storage-webworkers-websocket/tasks/web-workers-mdemkovych"]
-	path = sprint-7-storage-webworkers-websocket/tasks/web-workers-mdemkovych
+	path = sprint-07-storage-webworkers-websocket/tasks/web-workers-mdemkovych
 	url = https://github.com/react-08-1-worker/web-workers-mdemkovych.git
 [submodule "sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych"]
-	path = sprint-7-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych
+	path = sprint-07-storage-webworkers-websocket/tasks/web-sockets-react-mdemkovych
 	url = https://github.com/react-08-2-socket/web-sockets-react-mdemkovych.git
 [submodule "sprint-8-tools/tasks/tools-npm-mdemkovych"]
-	path = sprint-8-tools/tasks/tools-npm-mdemkovych
+	path = sprint-08-tools/tasks/tools-npm-mdemkovych
 	url = https://github.com/react-09-npm/tools-npm-mdemkovych.git
 [submodule "sprint-8-tools/tasks/tools-webpack-mdemkovych"]
-	path = sprint-8-tools/tasks/tools-webpack-mdemkovych
+	path = sprint-08-tools/tasks/tools-webpack-mdemkovych
 	url = https://github.com/react-09-webpack/tools-webpack-mdemkovych.git
 [submodule "sprint-8-tools/tasks/tools-babel-mdemkovych"]
-	path = sprint-8-tools/tasks/tools-babel-mdemkovych
+	path = sprint-08-tools/tasks/tools-babel-mdemkovych
 	url = https://github.com/react-09-babel/tools-babel-mdemkovych.git
 [submodule "sprint-8-tools/tasks/tools-eslint-mdemkovych"]
-	path = sprint-8-tools/tasks/tools-eslint-mdemkovych
+	path = sprint-08-tools/tasks/tools-eslint-mdemkovych
 	url = https://github.com/react-09-eslint/tools-eslint-mdemkovych.git
 [submodule "sprint-8-tools/tasks/task-next-js-mdemkovych"]
-	path = sprint-8-tools/tasks/task-next-js-mdemkovych
+	path = sprint-08-tools/tasks/task-next-js-mdemkovych
 	url = https://github.com/react-09-nextjs/task-next-js-mdemkovych.git
 [submodule "sprint-9-node-ajax/tasks/node-express-mdemkovych"]
-	path = sprint-9-node-ajax/tasks/node-express-mdemkovych
+	path = sprint-09-node-ajax/tasks/node-express-mdemkovych
 	url = https://github.com/react-10-node/node-express-mdemkovych.git
 [submodule "sprint-10-routing/tasks/next-js-routes-mdemkovych"]
 	path = sprint-10-routing/tasks/next-js-routes-mdemkovych
