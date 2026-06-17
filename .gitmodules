@@ -58,3 +58,6 @@
 [submodule "sprint-10-routing/tasks/react-routes-mdemkovych"]
 	path = sprint-10-routing/tasks/react-routes-mdemkovych
 	url = https://github.com/react-11-1-router/react-routes-mdemkovych.git
+[submodule "sprint-11-redux/tasks/redux-toolkit-mdemkovych"]
+	path = sprint-11-redux/tasks/redux-toolkit-mdemkovych
+	url = https://github.com/react-12-Redux-Toolkit/redux-toolkit-mdemkovych.git
